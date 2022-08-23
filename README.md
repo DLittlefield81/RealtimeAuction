@@ -14,10 +14,10 @@
 - [License](#license)
 - [Copyright](#copyright)
 
-## Description
+### Description
 - Online bidding system utilizing socket.io
 
-## Installation
+### Installation
 
 Follow these steps to install this project on your local machine.
 - Open Bash editor
@@ -26,29 +26,29 @@ Follow these steps to install this project on your local machine.
 - git clone https://github.com/Dlittlefield81/RealtimeAuction.git
 - npm install
 
-## Usage
+### Usage
 - After cloning this repository...
 - Open bash terminal enter 'npm develop'
 
-## Application
+### Application
 - Deployed Application in React/mySQL: None
 
-## Images
+### Images
 - ![Website](./assets/RealtimeAuction.png)
 
-## Tests
+### Tests
 - Email me
 
-## Questions
+### Questions
 - Username: GitHub
 - GitHub: https://github.com/DLittlefield81/
 - Email: Littlefield.Dennis@outlook.com
 
-## Contributing
+### Contributing
 - Email me
 
 
-## License
+### License
 - MIT License
 
 Copyright (c) [2022] [Dennis Littlefield]
@@ -72,5 +72,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Copyright
+### Copyright
 - © Copyright 2022 Dennis Littlefield
